@@ -1,6 +1,6 @@
 /********** Template CSS **********/
 :root {
-    --primary: linear-gradient(to bottom, #0463FA, #EFF5FF);
+    --primary: linear-gradient(to bottom, #04fa5a, #4268a3);
     --light: #EFF5FF;
     --dark: #1B2C51;
 }
