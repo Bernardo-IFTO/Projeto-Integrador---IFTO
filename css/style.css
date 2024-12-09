@@ -79,6 +79,9 @@
 
 
 /*** Navbar ***/
+.navbar {
+    background: var(--primary); /* O degradê definido no :root */
+    color: white;
 .navbar .dropdown-toggle::after {
     border: none;
     content: "\f107";
